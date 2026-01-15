@@ -13,3 +13,10 @@ class Polar_Bear(Animal):
 
     def action(self):
         return "hibernates in an igloo!"
+
+class test_polar_bear():
+    def test_init__(self, name)
+        assert super().__init__(name, species) == "Panda Polar Bear says"
+        assert sound(self) == "howls"
+        assert action(self) == "sleeps"
+ 
